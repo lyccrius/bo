@@ -60,3 +60,17 @@ nav:
   - 首页:
     - index.md
     - 书单: list.md
+  - 细胞生物学:
+    - cell-biology/index.md
+  - 植物解剖和生理:
+    - plant-anatomy-and-physiology/index.md
+  - 动物和生理:
+    - animals-and-physiology/index.md
+  - 动物行为学:
+    - ethology/index.md
+  - 遗传学与进化:
+    - genetics-and-evolution/index.md
+  - 生态学:
+    - ecology/index.md
+  - 生物系统学:
+    - biosystematics/index.md
