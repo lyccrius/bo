@@ -80,8 +80,17 @@ nav:
     - 水分、矿物质和同化物的运输: plant-anatomy-and-physiology/transport.md
     - 生长和发育: plant-anatomy-and-physiology/growth-and-development.md
     - 生殖: plant-anatomy-and-physiology/reproduction.md
-  - 动物和生理:
-    - animals-and-physiology/index.md
+  - 动物解剖和生理:
+    - animals-anatomy-and-physiology/index.md
+    - 组织和器官的结构和功能: animals-anatomy-and-physiology/tissue-and-organ-structure-function.md
+    - 消化和营养: animals-anatomy-and-physiology/digestion-and-nutrition.md
+    - 呼吸作用: animals-anatomy-and-physiology/cellular-respiration.md
+    - 血液循环: animals-anatomy-and-physiology/blood-circulation.md
+    - 排泄调节: animals-anatomy-and-physiology/excretion-regulation.md
+    - 生殖和发育: animals-anatomy-and-physiology/reproduction-and-development.md
+    - 免疫: animals-anatomy-and-physiology/immunity.md
+    - 皮肤及其衍生物: animals-anatomy-and-physiology/skin-and-its-derivative.md
+    - 运动器官: animals-anatomy-and-physiology/locomotive-organ.md
   - 动物行为学:
     - ethology/index.md
   - 遗传学与进化:
