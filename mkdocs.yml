@@ -93,6 +93,10 @@ nav:
     - 运动器官: animals-anatomy-and-physiology/locomotive-organ.md
   - 动物行为学:
     - ethology/index.md
+    - 行为的体系: ethology/system-of-behavior.md
+    - 行为的原因: ethology/reason-for-behavior.md
+    - 争斗行为: ethology/agonistic-behavior.md
+    - 习得性行为: ethology/learned-behavior.md
   - 遗传学与进化:
     - genetics-and-evolution/index.md
     - 变异：突变和渐变: genetics-and-evolution/mutation.md
