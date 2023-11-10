@@ -62,7 +62,16 @@ nav:
     - 书单: list.md
   - 细胞生物学:
     - cell-biology/index.md
-  - 植物解剖和生理:
+    - 细胞的结构和功能: cell-biology/cell-structure-and-function.md
+    - 化学成分: cell-biology/chemical-composition.md
+    - 细胞器: cell-biology/organelle.md
+    - 细胞代谢: cell-biology/cell-metabolism.md
+    - 蛋白质合成: cell-biology/protein-synthesis.md
+    - 通过膜的转运: cell-biology/membrane-transport.md
+    - 有丝分裂和减数分裂: cell-biology/mitosis-and-meiosis.md
+    - 微生物学: cell-biology/microbiology.md
+    - 生物工程学: cell-biology/bioengineering.md
+  - 植物解剖和生理: 
     - plant-anatomy-and-physiology/index.md
   - 动物和生理:
     - animals-and-physiology/index.md
