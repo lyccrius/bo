@@ -70,6 +70,13 @@ nav:
     - ethology/index.md
   - 遗传学与进化:
     - genetics-and-evolution/index.md
+    - 变异：突变和渐变: genetics-and-evolution/mutation.md
+    - 孟德尔遗传: genetics-and-evolution/mendelian-inheritance.md
+    - 多等位性: genetics-and-evolution/multi-allelic.md
+    - 重组: genetics-and-evolution/recombination.md
+    - 伴性遗传: genetics-and-evolution/sex-linked-inheritance.md
+    - 哈迪-温博格定律: genetics-and-evolution/hardy-weinberg-principle.md
+    - 演化的机理: genetics-and-evolution/evolution-mechanism.md
   - 生态学:
     - ecology/index.md
   - 生物系统学:
