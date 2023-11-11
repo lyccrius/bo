@@ -62,6 +62,7 @@ nav:
     - 书单: list.md
   - 细胞生物学:
     - cell-biology/index.md
+    - 基础技术: cell-biology/basic-technology.md
     - 细胞的结构和功能: cell-biology/cell-structure-and-function.md
     - 化学成分: cell-biology/chemical-composition.md
     - 细胞器: cell-biology/organelle.md
