@@ -135,6 +135,6 @@ nav:
     - 种群结构和动态: ecology/population-structure-and-dynamic.md
     - 生物圈和人: ecology/biosphere-and-people.md
   - 生物系统学:
-    - biosystematics/index.md
+    - 生物分类: biosystematics/taxonomy.md
     - 结构和功能: biosystematics/structure-and-function.md
     - 病毒: biosystematics/virus.md
