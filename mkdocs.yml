@@ -27,6 +27,19 @@ theme:
     - navigation.indexes
   icon:
     logo: 'material/school-outline'
+    admonition:
+      note: octicons/tag-16
+      abstract: octicons/checklist-16
+      info: octicons/info-16
+      tip: octicons/squirrel-16
+      success: octicons/check-16
+      question: octicons/question-16
+      warning: octicons/alert-16
+      failure: octicons/x-circle-16
+      danger: octicons/zap-16
+      bug: octicons/bug-16
+      example: octicons/beaker-16
+      quote: octicons/quote-16
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -54,6 +67,11 @@ extra_javascript:
 
 extra_css:
   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 
 # Page tree
 nav:
@@ -119,3 +137,4 @@ nav:
   - 生物系统学:
     - biosystematics/index.md
     - 结构和功能: biosystematics/structure-and-function.md
+    - 病毒: biosystematics/virus.md
