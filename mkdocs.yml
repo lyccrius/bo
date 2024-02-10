@@ -127,6 +127,7 @@ nav:
     - 演化的机理: genetics-and-evolution/evolution-mechanism.md
   - 生态学:
     - ecology/index.md
+    - 生态因素: ecology/ecological-factor.md
     - 生态系统: ecology/ecosystem.md
     - 食物关系: ecology/food-relation.md
     - 能流: ecology/energy-flow.md
